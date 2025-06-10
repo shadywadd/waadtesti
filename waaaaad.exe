@@ -1,4 +1,4 @@
-local Targets = {"auyox", "car", "d7p", "gamb", "hty"} -- "All", "Target Name", "arian_was_here"
+local Targets = {"mika", "car", "d7p", "gamb", "hty"} -- "All", "Target Name", "arian_was_here"
 
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
